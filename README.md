@@ -1,4 +1,4 @@
-<h1  align="center"> Hello World, <img width="200" height="150" align="center" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" /> I'm Nawwal Ismael  :wave: </h1>
+<h1  align="center"> Hello World,  I'm Nawwal Ismael  :wave: </h1>
 <h3 align="center" size="300%"><b>A passionate full stack developer </b></h3>
 
 # 💻 Tech Stack:
@@ -14,7 +14,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
+----------
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
