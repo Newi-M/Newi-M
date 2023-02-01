@@ -1,5 +1,6 @@
-<h1  align="center"> Hello World,  I'm Nawwal Ismael  :wave: </h1>
-<h3 align="center" size="300%"><b>A passionate full stack developer </b></h3>
+<h1  align="center"> :wave: :wave: Hello World :wave: :wave: </h1>
+<h2  align="center"> I'm Nawwal Ismael </h2>
+<h3 align="center" size="300%"><b>A Passionate ALX Software Engineering Student </b></h3>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
